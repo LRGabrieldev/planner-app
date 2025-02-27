@@ -1,1 +1,1 @@
-# planner-app
+# Planner App
